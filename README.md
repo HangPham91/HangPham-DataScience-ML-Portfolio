@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I’m Hang Pham, a PhD candidate in High Energy Physics specializing in **data analysis**, **statistics**, and **machine learning**. I’m passionate about applying **Data Science, Machine Learning, and Quantitative Research** to solve complex problems in **finance, healthcare, and technology**.
+Hi, I’m Hang Pham, a PhD in High Energy Physics specializing in **data analysis**, **statistics**, and **machine learning**. I’m passionate about applying **Data Science, Machine Learning, and Quantitative Research** to solve complex problems in **finance, healthcare, and technology**.
 
 I am currently seeking roles as a **Data Scientist, Machine Learning Engineer, Quantitative Researcher, or Applied Scientist**.
 
